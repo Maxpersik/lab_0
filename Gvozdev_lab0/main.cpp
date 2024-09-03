@@ -1,4 +1,5 @@
 #include <stdio.h>
+//terminal version
 
 int main()
 {
